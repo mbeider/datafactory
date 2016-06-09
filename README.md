@@ -10,7 +10,7 @@ To add DataFactory to your maven project, just add it as a dependency in your po
     <dependency>
         <groupId>org.fluttercode.datafactory</groupId>
         <artifactId>datafactory</artifactId>
-        <version>0.8</version>
+        <version>0.9</version>
         <type>jar</type>
     </dependency>
 
